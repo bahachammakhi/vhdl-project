@@ -4,17 +4,28 @@ entity testmux is
 end testmux ; 
 architecture archtest of testmux is 
 component mux2  
-port (alarm_data ,time_data:in std_logic_vector(3 downto 0 );
-      show_a : in std_logic ;
-	   display :out std_logic_vector(3 downto 0);
-	   show_t: in std_logic;
-	   set_data : in std_logic_vector(3 downto 0));
+port (alarm_data :in std_logic_vector(3 downto 0 );
+	   time_data:in std_logic_vector(3 downto 0 );
+	   set_data : in std_logic_vector(3 downto 0);
+	  show_a : in std_logic ;
+	  show_t: in std_logic;
+	   display :out std_logic_vector(3 downto 0));
+	   
 end component;
-signal s_alarm_data , s_time_data,s_set_data:  std_logic_vector(3 downto 0 );
-signal s_show_a,s_show_t :  std_logic;
+signal s_alarm_data :  std_logic_vector(3 downto 0 );
+signal s_time_data:  std_logic_vector(3 downto 0 );
+signal s_set_data :  std_logic_vector(3 downto 0 );
+signal s_show_a :  std_logic;
+signal s_show_t : std_logic;
 signal s_display :  std_logic_vector(3 downto 0) ;
 begin
-    inst : mux2 port map(s_alarm_data ,s_time_data,s_set_data,s_show_a,s_show_t,s_display);
+    inst : mux2 port map(
+		s_alarm_data ,
+		s_time_data ,
+		s_set_data,
+		s_show_a ,
+		s_show_t,
+		s_display);
 	
 	proc:process
     begin 

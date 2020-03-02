@@ -24,19 +24,19 @@ o-work work -87 -explicit
 tExplicit T
 Emux2
 DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
-w1582885875
+w1583175471
 dC:\Users\BahaDev-pc\Desktop\sem2\VHDL\Project_college
 FC:/Users/BahaDev-pc/Desktop/sem2/VHDL/Project_college/mux_2.vhd
 l0
 L3
-VH?78aBSHz^Ko^8P27dV@63
+V=Te=o>I75hNAJ]f]:9FUU1
 OE;C;5.5e;15
 o-work work -87 -explicit
 tExplicit T
 Aarch2
-DE work mux2 H?78aBSHz^Ko^8P27dV@63
-l15
-L14
+DE work mux2 =Te=o>I75hNAJ]f]:9FUU1
+l14
+L13
 VCI?zKXR>WAX1kHRdnJ9]@3
 OE;C;5.5e;15
 M1 ieee std_logic_1164
@@ -55,7 +55,7 @@ o-work work -87 -explicit
 tExplicit T
 Etestmux
 DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
-w1582886502
+w1583176256
 dC:\Users\BahaDev-pc\Desktop\sem2\VHDL\Project_college
 FC:/Users/BahaDev-pc/Desktop/sem2/VHDL/Project_college/test_mux.vhd
 l0
@@ -65,11 +65,11 @@ OE;C;5.5e;15
 o-work work -87 -explicit
 tExplicit T
 Aarchtest
-DE work mux 9g<`6;Z=hem`hVKoW8<g:0
+DE work mux2 =Te=o>I75hNAJ]f]:9FUU1
 DE work testmux U9JTAL4YP<HCY:aBUXI:V3
-l14
+l21
 L5
-V>Z?=Nd?CBloQhXnT3o4L63
+VaVYCKJnzVShAhamWDM`<h2
 OE;C;5.5e;15
 M1 ieee std_logic_1164
 o-work work -87 -explicit

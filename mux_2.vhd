@@ -7,7 +7,7 @@ TIME_DATA : IN Std_Logic_vector(3 downto 0) ;
 SET_DATA : IN Std_Logic_vector(3 downto 0) ;
 SHOW_A : IN Std_Logic;
 SHOW_T : IN Std_Logic;
-DISPLAY : OUT Std_Logic_vector(3 downto 0);
+DISPLAY : OUT Std_Logic_vector(3 downto 0));
 END MUX2 ;
 
 ARCHITECTURE arch2 OF MUX2 IS 
