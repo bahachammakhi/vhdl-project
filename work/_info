@@ -1,0 +1,76 @@
+m255
+o
+cModel Technology
+dC:\Users\BahaDev-pc\Desktop\Modeltech_5.5e\win32
+Emux
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1582878579
+dC:\Users\BahaDev-pc\Desktop\sem2\VHDL\Project_college
+FC:/Users/BahaDev-pc/Desktop/sem2/VHDL/Project_college/mux.vhd
+l0
+L3
+V9g<`6;Z=hem`hVKoW8<g:0
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarch
+DE work mux 9g<`6;Z=hem`hVKoW8<g:0
+l12
+L11
+V=@T_[dMX7^Nl6P4mF9cmN3
+OE;C;5.5e;15
+M1 ieee std_logic_1164
+o-work work -87 -explicit
+tExplicit T
+Emux2
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1582885875
+dC:\Users\BahaDev-pc\Desktop\sem2\VHDL\Project_college
+FC:/Users/BahaDev-pc/Desktop/sem2/VHDL/Project_college/mux_2.vhd
+l0
+L3
+VH?78aBSHz^Ko^8P27dV@63
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarch2
+DE work mux2 H?78aBSHz^Ko^8P27dV@63
+l15
+L14
+VCI?zKXR>WAX1kHRdnJ9]@3
+OE;C;5.5e;15
+M1 ieee std_logic_1164
+o-work work -87 -explicit
+tExplicit T
+Etest_mux
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1582881867
+dC:\Users\BahaDev-pc\Desktop\sem2\VHDL\Project_college
+FC:/Users/BahaDev-pc/Desktop/sem2/VHDL/Project_college/test_mux.vhd
+l0
+L3
+Vdo3=478kNVJATAl;NJ[PV3
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Etestmux
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1582886502
+dC:\Users\BahaDev-pc\Desktop\sem2\VHDL\Project_college
+FC:/Users/BahaDev-pc/Desktop/sem2/VHDL/Project_college/test_mux.vhd
+l0
+L3
+VU9JTAL4YP<HCY:aBUXI:V3
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarchtest
+DE work mux 9g<`6;Z=hem`hVKoW8<g:0
+DE work testmux U9JTAL4YP<HCY:aBUXI:V3
+l14
+L5
+V>Z?=Nd?CBloQhXnT3o4L63
+OE;C;5.5e;15
+M1 ieee std_logic_1164
+o-work work -87 -explicit
+tExplicit T
